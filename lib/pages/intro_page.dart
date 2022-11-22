@@ -118,6 +118,8 @@ class _IntroPageState extends State<IntroPage> {
   }
 
 
+
+
   List<Widget> _builIndicator() {
     List<Widget> indicator=[];
     for (var i=0;3>i;i++) {
